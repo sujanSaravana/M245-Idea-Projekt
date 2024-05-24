@@ -1,0 +1,41 @@
+.title{
+    font-family: 'Founders Grotesk';
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    margin-top: 20px;
+    border-bottom: solid rgb(191, 187, 187) 0.05cm;
+}
+
+.subject-title{
+    font-family: 'Founders Grotesk';
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.second-container{
+    margin-top: 60px;
+}
+
+.portal-btn {
+    background-color: white;
+    border: solid rgb(191, 187, 187) 0.05cm;
+    border-radius: 0.2cm;
+    color: blueviolet;
+    font-family: 'Founders Grotesk';
+    padding: 10px 20px;
+    margin-top: 80px;
+    font-size: 20px;
+}
+
+.portal-btn:hover{
+    color: rgb(183, 153, 212);
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

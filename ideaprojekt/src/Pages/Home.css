@@ -1,0 +1,37 @@
+.home-title{
+    padding-top: 5cm;
+    text-align: center;
+    font-family: 'Founders Grotesk';
+    font-weight: 500;
+    font-size: 80px;
+}
+
+.btn1{
+    color: blue;
+    font-family: 'Founders Grotesk';
+    text-align: end;
+    font-size: large;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.btn1:hover{
+    color: rgb(120, 120, 255);
+}
+
+
+
+.home-btn {
+    background-color: white;
+    border: none;
+    color: blueviolet;
+    font-family: 'Founders Grotesk';
+    padding: 10px 20px; 
+    margin-left: 555px;
+    font-size: 20px;
+}
+
+.home-btn:hover{
+    color: rgb(183, 153, 212);
+    
+}
