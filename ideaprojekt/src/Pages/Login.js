@@ -8,7 +8,7 @@ function Login() {
     const navigate = useNavigate();
     
     const handleLogin = () => {
-        navigate("/home");
+        navigate("/Lernportal");
     };
 
     return(

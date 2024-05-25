@@ -1,0 +1,27 @@
+.exercise-1, .exercise-2{
+    border: solid rgb(191, 187, 187) 0.05cm;
+    border-radius: 0.5cm;
+}
+
+.exercise-title{
+    font-family: 'Founders Grotesk';
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.exercise-btn{
+    margin-right: 40px;
+    background-color: white;
+    border: solid rgb(191, 187, 187) 0.05cm;
+    border-radius: 0.2cm;
+    color: blueviolet;
+    font-family: 'Founders Grotesk';
+    padding: 10px 20px;
+    margin-top: 80px;
+    font-size: 20px;
+}
+
+.exercise-btn:hover{
+    color: rgb(183, 153, 212);
+}

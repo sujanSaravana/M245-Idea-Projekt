@@ -79,7 +79,7 @@ function Lernportal() {
                 </Container>
             </div>
             <div className="button-container">
-                <button className="portal-btn" onClick={handleClick}>Lernset erstellen</button>
+                <button className="portal-btn" onClick={handleClick}>Lernset generieren</button>
             </div>
         </div>
     );
